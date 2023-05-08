@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-<img align="left" src=" ![1](https://user-images.githubusercontent.com/131368294/236888950-992a06d2-d6e0-4dc3-82a1-10612c84937d.png)" width="220px">
+<img align="left" src="https://user-images.githubusercontent.com/131368294/236888950-992a06d2-d6e0-4dc3-82a1-10612c84937d.png" width="220px">
 <img align="left" src="  " width="220px">
 <img src="  " width="220px">
 
